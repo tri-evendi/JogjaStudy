@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "7414249966",
+    "firebase_url": "https://jogjastudy-6dea0.firebaseio.com",
+    "project_id": "jogjastudy-6dea0",
+    "storage_bucket": "jogjastudy-6dea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7414249966:android:996431f7def1f7b1",
+        "android_client_info": {
+          "package_name": "com.example.master.jogjastudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7414249966-ak3hrt1p2msonm1gtn05q4t2lg2r16u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.master.jogjastudy",
+            "certificate_hash": "0ddf0f74ebcab5bb9c39ca96c0b50cbe584c81eb"
+          }
+        },
+        {
+          "client_id": "7414249966-6ti0heasjjoru7cp1pese36gjk78t7ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1gSLkrb_hc24c_ToJtjApmTpcHWOckn8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7414249966-6ti0heasjjoru7cp1pese36gjk78t7ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

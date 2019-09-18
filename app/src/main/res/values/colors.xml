@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1BB200</color>
+    <color name="colorPrimaryDark">#1BB200</color>
+    <color name="colorAccent">#26FF00</color>
+    <color name="facebookBlue">#2819FF</color>
+    <color name="twitterBlue">#08D9FF</color>
+    <color name="googleRed">#D03E2F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="textColor">#6e6e6e</color>
+
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#1BB200</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+    <!-- General -->
+    <color name="about_background_color">#303030</color>
+    <color name="about_separator_color">#494949</color>
+
+    <!-- Text -->
+    <color name="about_description_text_color">#C1C1C1</color>
+    <color name="about_item_text_color">#FFFFFF</color>
+    <color name="about_text_color">#C1C1C1</color>
+
+    <color name="dodgerblue">#2894FF</color>
+    <color name="lightgray">#DDDDDD</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="black">#000000</color>
+
+</resources>
